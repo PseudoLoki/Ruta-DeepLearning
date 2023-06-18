@@ -1,8 +1,7 @@
 <div class="markdown prose w-full break-words dark:prose-invert light">
-  
-## Ruta de Aprendizaje en Ciencia de Datos
+# Ruta de Aprendizaje en Deep Learning
 
-### Fundamentos de programación
+## Fundamentos de programación
 
 - Python:
   - Dominio del lenguaje
@@ -11,7 +10,7 @@
   - Funciones y manejo de errores
   - Bibliotecas y paquetes de Python para aprendizaje automático y deep learning (NumPy, Pandas y Matplotlib)
 
-### Matemáticas y estadísticas
+## Matemáticas y estadísticas
 
 - Álgebra lineal:
   - Vectores y matrices
@@ -51,7 +50,7 @@
     - Relación lineal entre variables
     - Técnicas de ajuste de modelos lineales
 
-### Aprendizaje automático (Machine Learning)
+## Aprendizaje automático (Machine Learning)
 
 - Aprendizaje supervisado:
   - Regresión logística
@@ -73,7 +72,7 @@
 
 - Validación cruzada, sesgo-varianza, selección de modelos y evaluación de rendimiento
 
-### Redes neuronales y deep learning
+## Redes neuronales y deep learning
 
 - Fundamentos de redes neuronales:
   - Neuronas y funciones de activación
@@ -99,13 +98,13 @@
   - Keras
     - Interfaz de alto nivel que se ejecuta en TensorFlow, PyTorch y otros frameworks
 
-### Proyectos prácticos
+## Proyectos prácticos
 
 - Implementación de modelos de clasificación y regresión utilizando redes neuronales feedforward
 - Trabajar con conjuntos de datos populares como MNIST, CIFAR-10 y IMDB para desarrollar habilidades prácticas
 - Explorar proyectos en línea, competencias de Kaggle y desafíos abiertos para aplicar tus conocimientos en escenarios del mundo real
 
-### Avanzar en deep learning
+## Avanzar en deep learning
 
 - Arquitecturas de redes neuronales avanzadas:
   - Redes neuronales generativas adversariales (GAN)
@@ -132,4 +131,13 @@
     - Identificación y análisis de caras en imágenes o videos
   - Generación de contenido
     - Experimentar con la generación automática de imágenes, música o texto utilizando modelos generativos basados en redes neuronales
+
+## Temas adicionales para explorar
+
+- Reinforcement Learning
+- Transfer Learning
+- Generative Adversarial Networks (GANs) avanzadas
+- Interpretabilidad y explicabilidad de modelos
+- Optimización y ajuste de hiperparámetros
+- Escalabilidad y entrenamiento distribuido
 </div>
